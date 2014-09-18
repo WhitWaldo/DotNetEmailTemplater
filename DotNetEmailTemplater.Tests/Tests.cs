@@ -1,12 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using DotNetEmailTemplater.Entities;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PaintingCode;
-using PaintingCode.DotNetEmailTemplater;
-using PaintingCode.DotNetEmailTemplater.Tests;
+using PaintingCode.DotNetEmailTemplater.Entities;
 
-namespace DotNetEmailTemplater.Tests
+namespace PaintingCode.DotNetEmailTemplater.Tests
 {
 	[TestClass]
 	public class Tests

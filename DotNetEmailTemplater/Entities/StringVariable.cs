@@ -1,6 +1,6 @@
-﻿using DotNetEmailTemplater.Interfaces;
+﻿using PaintingCode.DotNetEmailTemplater.Interfaces;
 
-namespace DotNetEmailTemplater.Entities
+namespace PaintingCode.DotNetEmailTemplater.Entities
 {
 	public class StringVariable : ITag
 	{

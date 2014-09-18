@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace DotNetEmailTemplater.Entities
+namespace PaintingCode.DotNetEmailTemplater.Entities
 {
 	public class EmailScope
 	{

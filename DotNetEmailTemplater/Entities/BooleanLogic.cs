@@ -1,6 +1,6 @@
-﻿using DotNetEmailTemplater.Interfaces;
+﻿using PaintingCode.DotNetEmailTemplater.Interfaces;
 
-namespace DotNetEmailTemplater.Entities
+namespace PaintingCode.DotNetEmailTemplater.Entities
 {
 	/// <summary>
 	/// Represents a portion of the code that can be shown or hidden

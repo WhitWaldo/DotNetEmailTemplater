@@ -1,4 +1,4 @@
-﻿namespace DotNetEmailTemplater.Interfaces
+﻿namespace PaintingCode.DotNetEmailTemplater.Interfaces
 {
 	public interface ITag
 	{
